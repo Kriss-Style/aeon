@@ -1,5 +1,5 @@
 # aeon
-2D Lua Engine for roblox
+2D Lua Physics Engine for Roblox
 
 ## info
 * Collision: Descrete
